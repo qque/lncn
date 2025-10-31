@@ -3,7 +3,7 @@ from setuptools import setup
 setup(
     name="lncn",
     version="0.1.0",
-    description="simple python cli to count SLOC in a project",
+    description="Simple Python CLI to count SLOC in a codebase",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
     author="qque",
