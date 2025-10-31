@@ -13,7 +13,7 @@ setup(
 
     entry_points={
         "console_scripts": [
-            "lncn = lncn.cli:main",
+            "lncn = lncn:main",
         ],
     },
 )
